@@ -1,14 +1,14 @@
 
 <div align="center" style="margin-bottom: 100px;">
-    <img width="38%" src="https://github-readme-stats.vercel.app/api?username=Haavertz&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=codeSTACKr" />
+    <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Haavertz&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=codeSTACKr" />
     <br>
-    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haavertz&layout=compact&theme=codeSTACKr" />
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haavertz&layout=compact&theme=codeSTACKr" />
 </div>
 
 &nbsp;
 &nbsp;
 
-#### Main Stack:
+## Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -23,7 +23,7 @@
 &nbsp;
 &nbsp;
 
-#### Studying in this moment:
+## Studying in this moment:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-8257E6?style=for-the-badge&logo=kotlin&logoColor=ffffff)
@@ -35,14 +35,13 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/glessinn006?igsh=MXNmdGNwcW11dzZqZw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/glessinn006?igsh=MXNmdGNwcW11dzZqZw==" target="_blank"><img target="_blank" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "mailto:contato.gleisonmorais06@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://www.youtube.com/@haavertz2828" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href = "mailto:contato.gleisonmorais06@gmail.com" target="_blank"><img target="_blank" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://www.youtube.com/@haavertz2828" target="_blank"><img target="_blank" src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</div>
 
-</div>&nbsp;&nbsp;
- 
-
-  
+&nbsp;
+&nbsp; 
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
