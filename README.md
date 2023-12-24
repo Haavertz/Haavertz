@@ -1,8 +1,8 @@
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=Haavertz&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=codeSTACKr" />
+<div align="center" style="margin-bottom: 100px; display: inline-flex;">
+    <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=Haavertz&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=codeSTACKr" />
+    <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Haavertz&repo=github-readme-stats&cache_seconds=86400&theme=codeSTACKr" />
 </div>
-
 
 &nbsp;
 &nbsp;
@@ -19,6 +19,9 @@
 ![PySide6](https://img.shields.io/badge/PySide6-FFFF00?style=for-the-badge&logo=pyside&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+&nbsp;
+&nbsp;
 
 #### Studying in this moment:
 
