@@ -1,6 +1,6 @@
 
-<div align="center" style="margin-bottom: 100px;">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Haavertz&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=codeSTACKr" />
+<div align="center" style="margin-bottom: 60px;">
+    <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Haavertz&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=codeSTACKr&count_private=true&include_all_commits=true" />
     <br>
     <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haavertz&layout=compact&theme=codeSTACKr" />
 </div>
