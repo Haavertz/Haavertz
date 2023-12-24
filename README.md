@@ -1,8 +1,9 @@
 
-<div align="center" style="margin-bottom: 100px; display: inline-flex;">
-    <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=Haavertz&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=codeSTACKr" />
-    <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Haavertz&repo=github-readme-stats&cache_seconds=86400&theme=codeSTACKr" />
+<div align="center" style="margin-bottom: 100px; display: flex; gap: 16px;">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Haavertz&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=codeSTACKr" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haavertz&layout=compact&theme=codeSTACKr" />
 </div>
+
 
 &nbsp;
 &nbsp;
