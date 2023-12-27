@@ -1,3 +1,9 @@
+<h1 align="center">
+  <img src="https://avatars.githubusercontent.com/u/130395809?v=4" width="65" height="65" alt="Haavertz" style="border: 2px solid #000; border-radius: 50%;">
+  <br>
+  Haavertz
+&nbsp;
+</h1>
 
 <div align="center" style="margin-bottom: 60px;">
     <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Haavertz&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true" />
