@@ -48,5 +48,9 @@
 
 &nbsp;
 &nbsp; 
-  
+
+
+## Anime List:
+![Anime List](https://raw.githubusercontent.com/Haavertz/Haavertz/main/anime-list.svg)
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A0572&height=120&section=footer"/>
