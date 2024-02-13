@@ -6,9 +6,9 @@
 </h1>
 
 <div align="center" style="margin-bottom: 60px;">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Haavertz&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true" />
+    <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Haavertz&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&bg_color=0A0D1A&title_color=9122FF" />
     <br>
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haavertz&layout=compact&theme=codeSTACKr" />
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haavertz&layout=compact&theme=codeSTACKr&bg_color=0A0D1A&title_color=9122FF" />
 </div>
 
 &nbsp;
