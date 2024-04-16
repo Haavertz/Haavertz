@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: Soitora
+          user: Haavertz
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Stockholm
@@ -36,7 +36,7 @@ jobs:
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites
           plugin_anilist_shuffle: yes
-          plugin_anilist_user: Soitora
+          plugin_anilist_user: Haavertz
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
