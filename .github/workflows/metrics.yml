@@ -12,7 +12,7 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: medias.svg
+          filename: media.svg
           token: ${{ secrets.TOKEN }}
           base: ""
           config_order: anilist
