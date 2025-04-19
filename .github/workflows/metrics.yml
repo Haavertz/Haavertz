@@ -17,7 +17,7 @@ jobs:
           base: ""
           config_order: anilist
           output_action: gist
-          committer_gist: ${{ secrets.TOKEN }}
+          committer_gist: ${{ secrets.GIST }}
           plugin_anilist: yes
           plugin_anilist_medias: manga
           plugin_anilist_sections: favorites, characters
