@@ -19,9 +19,11 @@ jobs:
           token: ${{ secrets.TOKEN }}
           base: header, activity, community, metadata
           base_indepth: yes
+          config_order: base.header, activity, languages, calendar, notable
           config_timezone: America/Sao_Paulo
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
+          plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
@@ -35,7 +37,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_indepth: yes
-          plugin_isocalendar: yes
 
       - name: Medias
         if: ${{ success() || failure() }}
