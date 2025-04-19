@@ -15,9 +15,8 @@ jobs:
           user: Haavertz
           filename: general.svg
           token: ${{ secrets.TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
           base_indepth: yes
-          config_order: base.header, isocalendar, languages
           config_timezone: America/Sao_Paulo
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
