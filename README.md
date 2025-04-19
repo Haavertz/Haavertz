@@ -1,4 +1,4 @@
-[<img align="left" width="390" alt="🐱‍👤" src="https://gist.githubusercontent.com/Haavertz/52e1f43a89e6e0e7cdd1954315525a44/raw/cb635c586b1de8a3bd1d60bd772e8338ab52f803/media.svg">](#)
+[<img align="left" width="390" alt="🐱‍👤" src="https://gist.githubusercontent.com/Haavertz/52e1f43a89e6e0e7cdd1954315525a44/raw/media.svg">](#)
 <!-- [<img align="right" width="390" alt="🐱‍👤" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">](#)
 [<img align="right" width="390" height="80" alt="🐱‍👤" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
