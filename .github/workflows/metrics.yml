@@ -35,9 +35,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_indepth: yes
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_limit: 10
           plugin_discussions: yes
           plugin_discussions_categories_limit: 8
           
