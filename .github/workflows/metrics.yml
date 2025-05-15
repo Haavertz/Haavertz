@@ -35,6 +35,9 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_indepth: yes
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
           plugin_discussions: yes
           plugin_discussions_categories_limit: 8
           
@@ -46,7 +49,7 @@ jobs:
           filename: media.svg
           token: ${{ secrets.TOKEN }}
           base: ""
-          config_order: anilist
+          config_order: anilist, music
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           plugin_anilist: yes
