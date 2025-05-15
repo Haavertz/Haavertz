@@ -54,6 +54,7 @@ jobs:
           committer_gist: ${{ secrets.GIST }}
           plugin_anilist: yes
           plugin_anilist_user: Havertz
+          plugin_anilist_medias: manga
           plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 5
           plugin_anilist_limit_characters: 22
