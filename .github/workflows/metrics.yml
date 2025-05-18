@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.TOKEN }}
           base: header, activity, community, metadata
           base_indepth: yes
-          config_order: base.header, activity, languages, calendar, notable, topics
+          config_order: base.header, activity, languages, calendar, notable
           config_timezone: America/Sao_Paulo
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
@@ -37,10 +37,6 @@ jobs:
           plugin_notable_indepth: yes
           plugin_discussions: yes
           plugin_discussions_categories_limit: 8
-          plugin_topics: yes
-          plugin_topics_limit: 12
-          plugin_topics_mode: icons
-          
 
       - name: Medias
         if: ${{ success() || failure() }}
