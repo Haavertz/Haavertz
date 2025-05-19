@@ -15,7 +15,7 @@ jobs:
         with:
           filename: general.svg
           token: ${{ secrets.TOKEN }}
-          base: header, activity, community, metadata
+          base: header, repositories, activity, community, metadata
           base_indepth: yes
           config_order: base.header, activity, languages, calendar, notable, discussions
           config_timezone: America/Sao_Paulo
