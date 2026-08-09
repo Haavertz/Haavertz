@@ -47,14 +47,17 @@ jobs:
           filename: media.svg
           token: ${{ secrets.TOKEN }}
           base: ""
-          config_order: achievements, repositories, music
+          config_order: anilist, repositories, music
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          plugin_anilist: yes
+          plugin_anilist_user: Havertz
+          plugin_anilist_medias: manga
+          plugin_anilist_sections: favorites
+          plugin_anilist_limit: 3
+          plugin_anilist_limit_characters: 22
           plugin_repositories: yes
-          plugin_repositories_pinned: 4
+          plugin_repositories_pinned: 5
           plugin_repositories_order: pinned, featured, random
           plugin_music: yes
           plugin_music_playlist: ${{ secrets.PLAYLIST }}
